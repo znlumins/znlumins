@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTlsdWhxNjR4azZybXhoZzNpZGx0MzE1Nmx0MjkwOHd6NXcyMDRhOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y6aDJi4UcT2ow/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtnNXZldzRhb3hlOW5pbmhvYzNjZnYycXM4aGhiaGtxeDJraTNhdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LsjXjrBMPZlz4kSyRF/giphy.gif" width="100%" />
 
 # 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔐𝔶 𝔇𝔦𝔤𝔦𝔱𝔞𝔩 𝔇𝔬𝔪𝔞𝔦𝔫 ⛩️
 
