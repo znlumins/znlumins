@@ -5,8 +5,6 @@
 
 # 𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔐𝔶 𝔇𝔦𝔤𝔦𝔱𝔞𝔩 𝔇𝔬𝔪𝔞𝔦𝔫 ⛩️
 
-`[SYSTEM: ONLINE]` • `[USER: ZNLUMINS]` • `[STATUS: CODING IN THE SHADOWS]`
-
 <br>
 
 ---
@@ -28,11 +26,6 @@ I am a developer who thrives in the silence of the night, fueled by caffeine and
 <p align="center">
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=znlumins&theme=tokyonight&hide_border=true&background=00000000" alt="znlumins streak stats" />
-  
-  <br>
-
-  <!-- Top Languages (Menggunakan Metrics karena lebih stabil) -->
-  <img src="https://metrics.lecoq.io/znlumins?template=classic&base=0&languages=1&languages.limit=8&languages.sections=most-used&languages.details=percentage&theme=tokyonight&config.timezone=Asia%2FJakarta" alt="znlumins top languages" width="400px" />
 </p>
 
 <br>
