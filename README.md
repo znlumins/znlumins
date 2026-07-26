@@ -6,12 +6,6 @@ Mahasiswa D3 Teknologi Informasi, Universitas Brawijaya — based in Malang, Ind
 
 ---
 
-### Tentang Saya
-
-Saya banyak membangun aplikasi web dari nol: beberapa sistem LMS (termasuk untuk LSO English Club Vokasi UB), tools internal untuk organisasi kampus (HMPSTI), dan proyek digitalisasi untuk usaha kecil/desa. Stack utama saya React, TypeScript, Node.js, dan Prisma/PostgreSQL.
-
----
-
 ### Tech Stack
 
 <p align="center">
