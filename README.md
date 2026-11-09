@@ -2,7 +2,7 @@
 
 # Halo, saya Daffa 👋
 
-Mahasiswa D3 Teknologi Informasi, Universitas Brawijaya — based in Malang, Indonesia.
+Mahasiswa D3 Teknologi Informasi, Universitas Brawijaya | based in Malang, Indonesia.
 
 ---
 
